@@ -1,0 +1,19 @@
+.outer {
+    border: 1px solid lightblue;
+    background-color: lightgrey;
+    height: 2000px;
+}
+
+.inner {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.inner red {
+    background-color: red;
+}
+
+.inner green {
+    background-color: green;
+}

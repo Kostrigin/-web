@@ -1,0 +1,15 @@
+div {
+    background-color: skyblue;
+    border-radius: 25px;
+    border: 5px solid;
+    width: 70%;
+    margin: 30px;
+    padding: 15px;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+span {
+    color: red;
+}
